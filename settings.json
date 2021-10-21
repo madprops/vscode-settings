@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Nordico",
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 14,
+    "window.menuBarVisibility": "toggle",
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "window.zoomLevel": 1.1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.postCommitCommand": "push",
+    "files.autoSave": "onFocusChange"
+}
