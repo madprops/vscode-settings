@@ -9,5 +9,18 @@
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
     "git.postCommitCommand": "push",
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontSize": 13,
+    "files.watcherExclude": {
+		"**/.git/objects/**": true,
+		"**/.git/subtree-cache/**": true,
+		"**/node_modules/*/**": true,
+		"**/target/**": true,
+		"/home/yo/code/sym/sym/**": true
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "terminal.integrated.gpuAcceleration": "off"
 }
