@@ -4,7 +4,6 @@
     "editor.fontSize": 14,
     "window.menuBarVisibility": "toggle",
     "terminal.integrated.defaultProfile.linux": "fish",
-    "window.zoomLevel": 1.1,
     "security.workspace.trust.untrustedFiles": "open",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
@@ -22,5 +21,8 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "editor.multiCursorModifier": "ctrlCmd",
-  "terminal.integrated.gpuAcceleration": "off"
+  "terminal.integrated.gpuAcceleration": "off",
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 1,
+  "editor.folding": false
 }
