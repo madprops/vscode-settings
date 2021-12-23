@@ -24,5 +24,6 @@
   "terminal.integrated.gpuAcceleration": "off",
   "editor.minimap.enabled": false,
   "window.zoomLevel": 1,
-  "editor.folding": false
+  "editor.folding": false,
+  "editor.hover.enabled": false
 }
