@@ -41,5 +41,5 @@
         "key": "enter",
         "command": "-acceptSelectedSuggestion",
         "when": "acceptSuggestionOnEnter && suggestWidgetVisible && suggestionMakesTextEdit && textInputFocus"
-    },
+    }
 ]

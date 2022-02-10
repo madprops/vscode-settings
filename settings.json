@@ -17,13 +17,14 @@
 		"**/target/**": true,
 		"/home/yo/code/sym/sym/**": true
   },
-  "diffEditor.ignoreTrimWhitespace": false,
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "editor.multiCursorModifier": "ctrlCmd",
   "terminal.integrated.gpuAcceleration": "off",
   "editor.minimap.enabled": false,
-  "window.zoomLevel": 1,
   "editor.folding": false,
-  "editor.hover.enabled": false
+  "editor.hover.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "window.zoomLevel": 1,
+  "editor.occurrencesHighlight": false
 }
