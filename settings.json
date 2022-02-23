@@ -25,6 +25,7 @@
   "editor.folding": false,
   "editor.hover.enabled": false,
   "diffEditor.ignoreTrimWhitespace": false,
+  "editor.occurrencesHighlight": false,
   "window.zoomLevel": 1,
-  "editor.occurrencesHighlight": false
+  "editor.acceptSuggestionOnCommitCharacter": false,
 }
