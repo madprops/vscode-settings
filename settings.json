@@ -2,7 +2,6 @@
     "workbench.colorTheme": "Nordico",
     "workbench.sideBar.location": "right",
     "editor.fontSize": 14,
-    "window.menuBarVisibility": "toggle",
     "terminal.integrated.defaultProfile.linux": "fish",
     "security.workspace.trust.untrustedFiles": "open",
     "git.enableSmartCommit": true,
@@ -24,8 +23,33 @@
   "editor.minimap.enabled": false,
   "editor.folding": false,
   "editor.hover.enabled": false,
-  "diffEditor.ignoreTrimWhitespace": false,
   "editor.occurrencesHighlight": false,
-  "window.zoomLevel": 1,
   "editor.acceptSuggestionOnCommitCharacter": false,
+  "extensions.ignoreRecommendations": true,
+  "debug.javascript.autoAttachFilter": "disabled",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    },
+    "fish": {
+      "path": "fish"
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    },
+    "nu (2)": {
+      "path": "/usr/bin/nu"
+    }
+  },
+  "window.zoomLevel": 1,
+  "window.menuBarVisibility": "hidden",
 }
