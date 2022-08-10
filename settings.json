@@ -52,4 +52,5 @@
   },
   "window.zoomLevel": 1,
   "window.menuBarVisibility": "toggle",
+  "search.quickOpen.history.filterSortOrder": "recency"
 }
