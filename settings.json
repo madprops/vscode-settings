@@ -50,7 +50,13 @@
       "path": "/usr/bin/nu"
     }
   },
+  "search.quickOpen.history.filterSortOrder": "recency",
   "window.zoomLevel": 1,
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
   "window.menuBarVisibility": "toggle",
-  "search.quickOpen.history.filterSortOrder": "recency"
+  "typescript.suggest.autoImports": false,
+  "javascript.suggest.autoImports": false
 }
