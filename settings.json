@@ -55,8 +55,8 @@
   "[css]": {
     "editor.defaultFormatter": "aeschli.vscode-css-formatter"
   },
-  "diffEditor.ignoreTrimWhitespace": false,
-  "window.menuBarVisibility": "toggle",
   "typescript.suggest.autoImports": false,
-  "javascript.suggest.autoImports": false
+  "javascript.suggest.autoImports": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "window.menuBarVisibility": "toggle"
 }
