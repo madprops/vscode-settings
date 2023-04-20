@@ -1,6 +1,5 @@
 {
-    "workbench.colorTheme": "Nordico",
-    "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "right",
     "editor.fontSize": 14,
     "terminal.integrated.defaultProfile.linux": "fish",
     "security.workspace.trust.untrustedFiles": "open",
@@ -51,12 +50,16 @@
     }
   },
   "search.quickOpen.history.filterSortOrder": "recency",
-  "window.zoomLevel": 1,
   "[css]": {
     "editor.defaultFormatter": "aeschli.vscode-css-formatter"
   },
   "typescript.suggest.autoImports": false,
   "javascript.suggest.autoImports": false,
+  "workbench.colorTheme": "Nordico",
+  "git.openRepositoryInParentFolders": "always",
+  "window.zoomLevel": 1,
+  "window.menuBarVisibility": "toggle",
   "diffEditor.ignoreTrimWhitespace": false,
-  "window.menuBarVisibility": "toggle"
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true
 }
