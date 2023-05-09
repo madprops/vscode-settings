@@ -58,8 +58,10 @@
   "workbench.colorTheme": "Nordico",
   "git.openRepositoryInParentFolders": "always",
   "window.zoomLevel": 1,
-  "window.menuBarVisibility": "toggle",
   "diffEditor.ignoreTrimWhitespace": false,
   "files.trimTrailingWhitespace": true,
-  "files.trimFinalNewlines": true
+  "files.trimFinalNewlines": true,
+  "window.menuBarVisibility": "toggle",
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 5,
 }
