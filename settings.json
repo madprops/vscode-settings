@@ -63,5 +63,5 @@
   "files.trimFinalNewlines": true,
   "window.menuBarVisibility": "toggle",
   "workbench.editor.limit.enabled": true,
-  "workbench.editor.limit.value": 5,
+  "workbench.editor.limit.value": 8,
 }
