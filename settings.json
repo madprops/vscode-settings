@@ -61,7 +61,14 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
-  "window.menuBarVisibility": "toggle",
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.value": 8,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "window.menuBarVisibility": "toggle",
 }
