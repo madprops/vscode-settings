@@ -70,5 +70,19 @@
     "markdown": false,
     "scminput": false
   },
-  "window.menuBarVisibility": "toggle",
+  "window.menuBarVisibility": "hidden",
+  "settings.cycle": [
+    {
+        "id": "togglemenubar",
+        "overrideWorkspaceSettings": true,
+        "values": [
+            {
+                "window.menuBarVisibility": "visible"
+            },
+            {
+              "window.menuBarVisibility": "hidden"
+            }
+        ]
+    }
+],
 }

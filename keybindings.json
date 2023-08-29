@@ -32,10 +32,6 @@
         "command": "-editor.action.toggleTabFocusMode"
     },
     {
-        "key": "ctrl+m",
-        "command": "workbench.action.toggleMenuBar"
-    },
-    {
         "key": "shift+delete",
         "command": "editor.action.deleteLines",
         "when": "textInputFocus && !editorReadonly"
@@ -90,4 +86,8 @@
         "command": "editor.action.previousMatchFindAction",
         "when": "editorFocus"
     },
+    {
+        "key": "ctrl+m",
+        "command": "settings.cycle.togglemenubar",
+    }
 ]
