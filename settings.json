@@ -16,13 +16,12 @@
 		"/home/yo/code/sym/sym/**": true
   },
   "editor.tabSize": 2,
-  "editor.insertSpaces": true,
+  "editor.insertSpaces": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "terminal.integrated.gpuAcceleration": "off",
-  "editor.minimap.enabled": false,
   "editor.folding": false,
   "editor.hover.enabled": false,
-  "editor.occurrencesHighlight": false,
+  "editor.occurrencesHighlight": "off",
   "editor.acceptSuggestionOnCommitCharacter": false,
   "extensions.ignoreRecommendations": true,
   "debug.javascript.autoAttachFilter": "disabled",
@@ -57,8 +56,6 @@
   "javascript.suggest.autoImports": false,
   "workbench.colorTheme": "Nordico",
   "git.openRepositoryInParentFolders": "always",
-  "window.zoomLevel": 1,
-  "diffEditor.ignoreTrimWhitespace": false,
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
   "workbench.editor.limit.enabled": true,
@@ -77,7 +74,7 @@
         "overrideWorkspaceSettings": true,
         "values": [
             {
-                "window.menuBarVisibility": "visible"
+              "window.menuBarVisibility": "visible"
             },
             {
               "window.menuBarVisibility": "hidden"
@@ -85,4 +82,12 @@
         ]
     }
   ],
+  "window.zoomLevel": 1,
+  "terminal.integrated.smoothScrolling": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "dotnet.defaultSolution": "/home/yo/code/dotnet.sln",
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "editor.minimap.showSlider": "always",
+  "editor.minimap.size": "fit",
+  "editor.minimap.enabled": false,
 }
