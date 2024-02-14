@@ -90,4 +90,10 @@
   "editor.minimap.showSlider": "always",
   "editor.minimap.size": "fit",
   "editor.minimap.enabled": false,
+  "python.autoComplete.extraPaths": [
+      "/home/yo/code/borat/src",
+  ],
+  "python.analysis.extraPaths": [
+    "/home/yo/code/borat/src"
+  ],
 }
