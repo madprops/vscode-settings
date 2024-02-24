@@ -97,6 +97,6 @@
     "/home/yo/code/gifmaker/src"
   ],
   "autopep8.args": [
-    "--max-line-length=120"
+    "--max-line-length=140"
   ]
 }
