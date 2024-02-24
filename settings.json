@@ -5,7 +5,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "git.postCommitCommand": "push",
+    // "git.postCommitCommand": "push",
     "files.autoSave": "onFocusChange",
     "terminal.integrated.fontSize": 13,
     "files.watcherExclude": {
@@ -15,7 +15,7 @@
 		"**/target/**": true,
 		"/home/yo/code/sym/sym/**": true
   },
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.insertSpaces": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "terminal.integrated.gpuAcceleration": "off",
@@ -91,9 +91,12 @@
   "editor.minimap.size": "fit",
   "editor.minimap.enabled": false,
   "python.autoComplete.extraPaths": [
-      "/home/yo/code/borat/src",
+      "/home/yo/code/gifmaker/src",
   ],
   "python.analysis.extraPaths": [
-    "/home/yo/code/borat/src"
+    "/home/yo/code/gifmaker/src"
   ],
+  "autopep8.args": [
+    "--max-line-length=120"
+  ]
 }
