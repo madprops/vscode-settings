@@ -16,7 +16,7 @@
 		"/home/yo/code/sym/sym/**": true
   },
   "editor.tabSize": 4,
-  "editor.insertSpaces": false,
+  "editor.insertSpaces": true,
   "editor.multiCursorModifier": "ctrlCmd",
   "terminal.integrated.gpuAcceleration": "off",
   "editor.folding": false,
