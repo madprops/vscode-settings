@@ -82,7 +82,7 @@
         ]
     }
   ],
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "terminal.integrated.smoothScrolling": true,
   "diffEditor.ignoreTrimWhitespace": false,
   "dotnet.defaultSolution": "/home/yo/code/dotnet.sln",
