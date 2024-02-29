@@ -98,5 +98,6 @@
   ],
   "autopep8.args": [
     "--max-line-length=140"
-  ]
+  ],
+  "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
 }
