@@ -92,9 +92,11 @@
   "editor.minimap.enabled": false,
   "python.autoComplete.extraPaths": [
       "/home/yo/code/gifmaker/src",
+      "/home/yo/code/meltdown/src",
   ],
   "python.analysis.extraPaths": [
     "/home/yo/code/gifmaker/src",
+    "/home/yo/code/meltdown/src",
   ],
   "autopep8.args": [
     "--max-line-length=140",
