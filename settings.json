@@ -102,5 +102,4 @@
     "--aggressive",
   ],
   "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
-  "editor.autoClosingBrackets": "never",
 }
