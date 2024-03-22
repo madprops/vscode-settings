@@ -54,7 +54,6 @@
   },
   "typescript.suggest.autoImports": false,
   "javascript.suggest.autoImports": false,
-  "workbench.colorTheme": "Nordico",
   "git.openRepositoryInParentFolders": "always",
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
@@ -103,4 +102,5 @@
     "--aggressive",
   ],
   "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
+  "editor.autoClosingBrackets": "never",
 }
