@@ -92,12 +92,10 @@
   "python.autoComplete.extraPaths": [
     "/home/yo/code/gifmaker/gifmaker",
     "/home/yo/code/meltdown/meltdown",
-    "/home/yo/code/devboard/devboard",
   ],
   "python.analysis.extraPaths": [
     "/home/yo/code/gifmaker/gifmaker",
     "/home/yo/code/meltdown/meltdown",
-    "/home/yo/code/devboard/devboard",
   ],
   "autopep8.args": [
     "--max-line-length=140",
