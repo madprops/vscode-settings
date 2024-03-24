@@ -102,4 +102,6 @@
     "--aggressive",
   ],
   "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
+  "window.customTitleBarVisibility": "auto",
+  "workbench.activityBar.location": "top",
 }
