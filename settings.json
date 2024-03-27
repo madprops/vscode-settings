@@ -1,6 +1,5 @@
 {
-  "workbench.sideBar.location": "right",
-    "editor.fontSize": 14,
+  "editor.fontSize": 14,
     "terminal.integrated.defaultProfile.linux": "fish",
     "security.workspace.trust.untrustedFiles": "open",
     "git.enableSmartCommit": true,
@@ -102,7 +101,9 @@
     "--aggressive",
   ],
   "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
-  "window.customTitleBarVisibility": "auto",
   "workbench.activityBar.location": "top",
   "editor.autoClosingQuotes": "beforeWhitespace",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.sideBar.location": "right",
 }
