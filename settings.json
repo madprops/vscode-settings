@@ -84,18 +84,6 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.minimap.showSlider": "always",
   "editor.minimap.size": "fit",
-  "python.autoComplete.extraPaths": [
-    "/home/yo/code/gifmaker/gifmaker",
-    "/home/yo/code/meltdown/meltdown",
-    "/home/yo/code/cromulant",
-    "/home/yo/code/curls",
-  ],
-  "python.analysis.extraPaths": [
-    "/home/yo/code/gifmaker/gifmaker",
-    "/home/yo/code/meltdown/meltdown",
-    "/home/yo/code/cromulant",
-    "/home/yo/code/curls",
-  ],
   "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
   "workbench.activityBar.location": "top",
   "editor.autoClosingQuotes": "beforeWhitespace",
@@ -103,10 +91,17 @@
   "window.commandCenter": false,
   "workbench.sideBar.location": "right",
   "github.copilot.editor.enableAutoCompletions": true,
-  "python.REPL.enableREPLSmartSend": false,
   "editor.selectionClipboard": false,
   "diffEditor.hideUnchangedRegions.enabled": true,
   "editor.multiCursorModifier": "ctrlCmd",
   "gitblame.inlineMessageFormat": "Git: ${author.name} (${time.ago})",
   "gitblame.statusBarMessageFormat": "Git: ${author.name} (${time.ago})",
+  "[python]": {
+      "editor.tabSize": 4,
+      "editor.insertSpaces": true
+  },
+  "[javascript]": {
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+  }
 }
