@@ -85,11 +85,9 @@
   "editor.minimap.showSlider": "always",
   "editor.minimap.size": "fit",
   "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
-  "workbench.activityBar.location": "top",
   "editor.autoClosingQuotes": "beforeWhitespace",
   "workbench.layoutControl.enabled": false,
   "window.commandCenter": false,
-  "workbench.sideBar.location": "right",
   "github.copilot.editor.enableAutoCompletions": true,
   "editor.selectionClipboard": false,
   "diffEditor.hideUnchangedRegions.enabled": true,
@@ -103,5 +101,7 @@
   "[javascript]": {
       "editor.tabSize": 2,
       "editor.insertSpaces": true
-  }
+  },
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right"
 }
