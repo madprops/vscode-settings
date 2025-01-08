@@ -102,6 +102,5 @@
       "editor.tabSize": 2,
       "editor.insertSpaces": true
   },
-  "workbench.activityBar.location": "top",
-  "workbench.sideBar.location": "right"
+  "workbench.activityBar.location": "top"
 }
