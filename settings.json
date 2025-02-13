@@ -102,5 +102,12 @@
       "editor.tabSize": 2,
       "editor.insertSpaces": true
   },
-  "workbench.activityBar.location": "top"
+  "workbench.activityBar.location": "top",
+  "window.restoreWindows": "preserve",
+  "workbench.editor.customLabels.patterns": {
+    "server/sockets/modules/*": "(S)",
+  },
+  "editor.hover.delay": 1000,
+  "workbench.sash.hoverDelay": 1000,
+  "workbench.hover.delay": 1000,
 }
